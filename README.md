@@ -1,1 +1,1 @@
-# AssignmentsOfCS50
+# My Projects
